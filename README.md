@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Data Scientists with Neuroscience PhD and 11 years of experience in experimental design and data analysis. Skilled in Python, Pandas, Scikit-Learn, and Tensorflow with a focus on machine learning. Experienced in disseminating data driven evidence to broad audiences through mentoring and education, conference presentation, and peer reviewed publication. 
+
 <!--
 **nworley01/nworley01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
